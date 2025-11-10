@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Luiz 
 
-👨🏻‍💻 I'm a recent computer science graduate and passionate full stack developer.</br>
+👨🏻‍💻 I'm full stack developer.</br>
 📚 Studied Computer Studies at [Langara College](https://langara.ca/)</br>
 
 ### 📊 GitHub Analytics
