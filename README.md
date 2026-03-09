@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Luiz 👋:
 Full-stack developer building practical applications.<br>Currently working on a Finance App while mastering relational databases, algorithms, and data structures.<br>Focused on backend development and learning TypeScript.
 
 
